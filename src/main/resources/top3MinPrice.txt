@@ -1,0 +1,3 @@
+Stockholm - 8513.0
+London - 8992.0
+Paris - 10332.0

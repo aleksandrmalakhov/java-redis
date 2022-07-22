@@ -1,0 +1,44 @@
+{
+  "cities": [
+    {
+      "name": "New York",
+      "ticketPrice": 23867.0
+    },
+    {
+      "name": "Seoul",
+      "ticketPrice": 19400.0
+    },
+    {
+      "name": "Vancouver",
+      "ticketPrice": 36320.0
+    },
+    {
+      "name": "Tokyo",
+      "ticketPrice": 25209.0
+    },
+    {
+      "name": "Los Angeles",
+      "ticketPrice": 22736.0
+    },
+    {
+      "name": "Rome",
+      "ticketPrice": 10377.0
+    },
+    {
+      "name": "Stockholm",
+      "ticketPrice": 8513.0
+    },
+    {
+      "name": "Paris",
+      "ticketPrice": 10332.0
+    },
+    {
+      "name": "Sydney",
+      "ticketPrice": 46072.0
+    },
+    {
+      "name": "London",
+      "ticketPrice": 8992.0
+    }
+  ]
+}
